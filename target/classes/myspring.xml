@@ -11,7 +11,7 @@
 	
 	
 	<bean id="pbiz" class="product.ProductBiz" p:dao-ref="pdao"/>
-	<bean id="pdao" class="product.ProductDao"></beans>
-	
-	<bean id="pdao" class="product.ProductDao"></beans>
+	<!-- jjjjj -->
+	<bean id="pdao" class="product.ProductDao"></bean>
+
 </beans>
